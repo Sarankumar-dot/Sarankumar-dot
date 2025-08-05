@@ -13,8 +13,6 @@
 - 🎓 CS & BS Student at PSNA College of Engineering and Technology  
 - 💻 Passionate about Java, SQL, IoT, and Web Development  
 - 🌱 Currently working on:
-  - 🚗 Accident Detection System using IoT
-  - 📐 AI for Ingredient Weight Conversion
   - 🅿️ Smart Parking System with Face Recognition
 
 ---
