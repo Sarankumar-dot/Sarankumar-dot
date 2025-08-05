@@ -36,9 +36,6 @@
 - 🔧 [CGPA & GPA Calculator](https://github.com/Sarankumar-dot/CGPA-GPA-CALACULATOR)  
   A beautiful theme-toggle GPA calculator built with JS – [Live Demo](https://sarankumar-dot.github.io/CGPA-GPA-CALACULATOR/)
 
-- 📦 [Cloud-Based Insurance Claim System](#) *(link once available)*  
-  Real-time accident detection using ESP32 and cloud IoT frameworks.
-
 - 🚀 [Smart Parking System](#) *(link once available)*  
   Arduino + Facial Recognition based IoT parking solution.
 
