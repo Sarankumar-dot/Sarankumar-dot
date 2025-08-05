@@ -7,8 +7,7 @@
 - 🌱 I’m improving my **Java, Web Development, and Competitive Programming** skills
 - 💡 Recently built: [GPA & CGPA Calculator](https://sarankumar-dot.github.io/CGPA-GPA-CALACULATOR/)
 - 📝 I regularly write articles on [my portfolio blog](https://sarankumark.github.io/portfolio-website/)
-- 🎯 Goals: Publish in IEEE | Explore DevOps | Build scalable web tools
-- ⚡ Fun fact: I automate things to save seconds – because seconds matter.
+- 🎯 Goals:  Explore DevOps | Build scalable web tools.
 
 ---
 
