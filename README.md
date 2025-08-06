@@ -62,7 +62,7 @@
 ---
 
 ### 📁 Featured Projects
-- ✅ [Todo List](https://github.com/sarankumar-dot/Todo-list.git)
+- ✅ [Todo List](https://github.com/sarankumar-dot/Todo-list/)
 - 🧮 [CGPA & GPA Calculator](https://sarankumar-dot.github.io/CGPA-GPA-CALACULATOR/)
 - 🌐 [Portfolio Website](https://sarankumar7639.neocities.org/)
 - 💡 [Java Projects](https://github.com/Sarankumar-dot/IdeaProjects-java)
