@@ -65,6 +65,7 @@
 - ✅ [Todo List](https://github.com/sarankumar-dot/Todo-list)  
   A simple and interactive to-do list application. - [Live Demo](https://sarankumar-dot.github.io/Todo-list/)
 - 🧮 [CGPA & GPA Calculator](https://sarankumar-dot.github.io/CGPA-GPA-CALACULATOR/)
+  A simple CGPA Calculator
 - 🌐 [Portfolio Website](https://sarankumar7639.neocities.org/)
 - 💡 [Java Projects](https://github.com/Sarankumar-dot/IdeaProjects-java)
 - 🗃️ [SQL Practice](https://github.com/Sarankumar-dot/SQL)
