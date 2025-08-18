@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Cloud Computing & Real-time IoT projects**
 - 🌱 I’m improving my **Java, Web Development, and Competitive Programming** skills
-- 💡 Recently built: [GPA & CGPA Calculator](https://sarankumar-dot.github.io/CGPA-GPA-CALACULATOR/)
-- 📝 I regularly write articles on [my portfolio blog](https://sarankumark.github.io/portfolio-website/)
 - 🎯 Goals:  Explore DevOps | Build scalable web tools.
 
 ---
